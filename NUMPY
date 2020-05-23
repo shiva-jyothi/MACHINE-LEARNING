@@ -1,0 +1,15 @@
+NUMPY
+it is used to create arrays.
+package-import numpy as np
+
+arr=np.array([1,2])
+
+print(arr)
+o/p -1,2
+
+print(arr.ndim)
+o/p- 1.
+
+print(type(arr))
+o/p- numpy.ndarray.
+
